@@ -18,6 +18,7 @@ a {
 }
 .main {
 	margin: 0 auto;
+	max-width: 1440px;
 }
 .container {
 	display: flex;
